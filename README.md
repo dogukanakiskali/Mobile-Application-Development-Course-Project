@@ -21,7 +21,7 @@ Bu Flutter projesi, JSON verilerini Dart kodu kullanarak işlemenin ve durumlar�
   - JSON verilerini Dart nesnelerine dönüştürür.
   - Flutter'ın setState fonksiyonunu kullanarak durumları verimli bir şekilde yönetir.
   - Daha yumuşak bir kullanıcı deneyimi için asenkron veri alışverişini gösterir.
-  - >
+>
 >Erciyes Üniversitesi, Bilgisayar Mühendisliği,
 >Mobile Application Development,
 >Danışman: DR.ÖĞR.ÜYESİ Fehim KÖYLÜ
